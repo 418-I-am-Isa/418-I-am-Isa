@@ -2,7 +2,7 @@
 
 
 
-I'm a professional in Applied Mathematics and Computer Science and I work as Software Engineer, my day to day work revolves around building new features and solving bugs 🐛 .  
+I'm a professional in Applied Mathematics and Computer Science and I work as a Software Engineer, my day to day work revolves around building new features and solving bugs 🐛 .  
 
 
 I'm a versatile developer, with experience in building web platforms. I'm open to collaborate on interesting projects.
