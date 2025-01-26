@@ -8,7 +8,7 @@ I'm a professional in Applied Mathematics and Computer Science and I work as a S
 I'm a versatile developer, with experience in building web platforms. I'm open to collaborate on interesting projects.
 ## A little more about me... 
 
-- :octocat: Software Backend Engineer at [Ubidots](https://ubidots.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :octocat: Software Engineer at [Bold](https://bold.co/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I am currently studing an advanced professional degree in Enterprise Software Architecture at [Universidad Javeriana](https://www.javeriana.edu.co/inicio).
 - 🌱 I’m learning Go, and React.js
 - 👯 I’m willing to collaborate on building communities, and open-source project
